@@ -10,4 +10,4 @@ This is my reflection for the final project my honest thoughts and what happened
 
 5. I decided to read the boss spawn file the agent created for the game as I never read that one, My predictions was that it simply determines the time the boss spawns at, but when I ran it through the agent, it says that I misplaced where the timer was and that I also didn't include the boss behavior and enemy spawn rates too.
 
-As a not for you professor pitcher, rule 7a is wrong due to an oversight and timing placement, it simply didn't put the files in the right spot, specifically the problem and the handoff files and commits, so that was just a problem on my end. I hope you enjoy the game prof. Pitcher. 
+As a not for you professor pitcher, rule 7a is wrong due to an oversight and timing placement, it simply didn't put the files in the right spot, specifically the problem and the handoff files and commits, so that was just a problem on my end, the same applies to rule 4 since that was just my dumbass not realizing that I wasn't supposed to make the readme file first. I hope you enjoy the game prof. Pitcher. 
